@@ -1,6 +1,5 @@
 import React from "react";
 import "./experience.css";
-import { SiCoffeescript } from "react-icons/si";
 import { GiCoffeeBeans } from "react-icons/gi";
 
 const Experience = () => {
