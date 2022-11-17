@@ -1,7 +1,6 @@
 import React from "react";
 import "./header.css";
 import FOTO from "./Foto";
-/* import ME from "../../assets/cafe.png"; */
 import ME from "../../assets/grano.png";
 import HeaderSocial from "./HeaderSocial";
 

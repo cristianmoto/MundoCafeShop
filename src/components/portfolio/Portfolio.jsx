@@ -17,7 +17,7 @@ const Portfolio = () => {
                 <img src={image} alt="maquina de cafe" />
               </div>
               <h3>Maquinas de cafe</h3>
-              <p>[{tipo}]</p>
+              <p>{tipo}</p>
               <div className="portfolio__item-cta">
                 <a href={venta} className="btn">
                   Comprar

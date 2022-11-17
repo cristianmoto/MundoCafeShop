@@ -7,7 +7,7 @@ const data = [
   {
     id: 1,
     image: MAC1,
-    tipo: "Molinillo para granos de cafe",
+    tipo: 'Molinillo para granos de cafe',
     venta:
       "https://articulo.mercadolibre.com.ar/MLA-854685881-molino-de-cafe-automatico-oster-mh23-18-modos-250grs-garant-_JM#is_advertising=true&position=31&search_layout=stack&type=pad&tracking_id=61b9d2e2-89e8-4703-9623-4a761b119f2a&is_advertising=true&ad_domain=VQCATCORE_LST&ad_position=31&ad_click_id=ZDk4ZDNkOGYtMjI5Zi00ODlhLTgxZjgtOWRlZjYyNzFhZmI1",
   },
