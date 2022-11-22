@@ -1,6 +1,6 @@
 {
   "name": "portfolio",
-  "homepage": "https://cristianmoto.github.io/portfolio",
+  "homepage": "http://cristianmoto.github.io/portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
