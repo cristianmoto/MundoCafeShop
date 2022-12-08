@@ -14,37 +14,39 @@ const Nav = () => {
   return (
     <nav>
       <a
-        href="#"
+        href="#" 
         onClick={() => setActiveNav("#")}
-        className={activeNav === "#" ? "active" : ""}
+        className={activeNav === "#" ? "active" : "" }   data-toggle="tooltip" data-placement="top" title="Inicio"
+        
       >
-        <GiCoffeeCup />
+       <GiCoffeeCup />
       </a>
       <a
         href="#sobre"
         onClick={() => setActiveNav("#sobre")}
-        className={activeNav === "#sobre" ? "active" : ""}
+        className={activeNav === "#sobre" ? "active" : ""}  data-toggle="tooltip" data-placement="top" title="hablemos de cafe"
+        
       >
         <FaUserCheck />
       </a>
       <a
         href="#experience"
         onClick={() => setActiveNav("#experience")}
-        className={activeNav === "#experience" ? "active" : ""}
+        className={activeNav === "#experience" ? "active" : ""}  data-toggle="tooltip" data-placement="top" title="Sabores"
       >
         <BsFillJournalBookmarkFill />
       </a>
       <a
         href="#portfolio"
         onClick={() => setActiveNav("#portfolio")}
-        className={activeNav === "#potfolio" ? "active" : ""}
+        className={activeNav === "#potfolio" ? "active" : ""}  data-toggle="tooltip" data-placement="top" title="Equipos"
       >
         <MdRoomService />
       </a>
       <a
         href="#contact"
         onClick={() => setActiveNav("#contact")}
-        className={activeNav === "#contact" ? "active" : ""}
+        className={activeNav === "#contact" ? "active" : ""}  data-toggle="tooltip" data-placement="top" title="Contacto"
       >
         <RiContactsFill />
       </a>
